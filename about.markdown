@@ -4,16 +4,10 @@ title: About
 permalink: /about/
 ---
 
-# About
+Hi 👋, I’m Brenna.
 
-I am a Chemical Engineering student at Youngstown State University (Expected May 2026) with minors in Mathematics and Chemistry.
+I enjoy building, designing, and improving things - especially when that work can contribute to larger environmental or sustainability goals.
 
-My interests include process engineering, sustainable energy systems, plant design, and process optimization. I enjoy solving technical problems that improve efficiency, safety, and real-world performance.
+I’m naturally drawn to problem-solving that combines technical thinking with creativity, and I’m especially interested in energy, water, and sustainable process design.
 
-## Education
-Youngstown State University  
-B.E. Chemical Engineering  
-GPA: 3.46/4.0
-
-## Technical Tools
-ChemCAD | Polymath | Visio | Excel | Process Design | Safety Analysis
+I like understanding how things work, finding ways to make them better, and working on meaningful solutions with real-world impact. 

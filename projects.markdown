@@ -1,34 +1,74 @@
 # Projects
 
-## Renewable Natural Gas Process Design
-Senior Capstone | Spring 2026
+<style>
+.projects-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 20px;
+  margin-top: 30px;
+}
 
-- Designed and simulated a centralized RNG production facility in ChemCAD
-- Created PFDs and P&IDs
-- Performed material and energy balances
-- Conducted heat integration and economic feasibility analysis
+.project-card {
+  border: 1px solid #dcdcdc;
+  border-radius: 12px;
+  padding: 20px;
+  background: #fafafa;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.06);
+}
 
----
+.project-card h2 {
+  margin-top: 0;
+  font-size: 1.3rem;
+}
 
-## Drying Oil Process Optimization
-Process & Plant Design I | Fall 2025
+.project-card p {
+  margin-bottom: 10px;
+}
 
-- Built ChemCAD simulation
-- Improved efficiency through sensitivity analysis
-- Evaluated economic viability
+.project-card ul {
+  padding-left: 20px;
+  margin-bottom: 0;
+}
+</style>
 
----
+<div class="projects-grid">
 
-## Blue Hydrogen ATR Safety Analysis
-Chemical Process Safety | Spring 2025
+<div class="project-card">
+<h2>Renewable Natural Gas Process Design</h2>
+<p><strong>Senior Capstone | Spring 2026</strong></p>
 
-- Pressure relief sizing
-- Hazard assessment
-- Consequence analysis
+<ul>
+<li>Designed and simulated a centralized RNG production facility in ChemCAD</li>
+<li>Created PFDs and P&amp;IDs</li>
+<li>Performed material and energy balances</li>
+<li>Conducted heat integration and economic feasibility analysis</li>
+</ul>
+</div>
 
----
+<div class="project-card">
+<h2>Drying Oil Process Optimization</h2>
+<p><strong>Process &amp; Plant Design I | Fall 2025</strong></p>
 
-## Future Portfolio Projects
-- Python Process Data Dashboard
-- Water Treatment Process Design
-- Heat Exchanger Network Optimization
+<ul>
+<li>Built ChemCAD simulation</li>
+<li>Improved efficiency through sensitivity analysis</li>
+<li>Evaluated economic viability</li>
+</ul>
+</div>
+
+<div class="project-card">
+<h2>Blue Hydrogen ATR Safety Analysis</h2>
+<p><strong>Chemical Process Safety | Spring 2025</strong></p>
+
+<ul>
+<li>Pressure relief sizing</li>
+<li>Hazard assessment</li>
+<li>Consequence analysis</li>
+</ul>
+</div>
+
+<div class="project-card">
+<h2>Blank Project</h2>
+</div>
+
+</div>
