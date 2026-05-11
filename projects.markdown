@@ -1,5 +1,4 @@
 # Projects
-
 <style>
 .projects-grid {
   display: grid;

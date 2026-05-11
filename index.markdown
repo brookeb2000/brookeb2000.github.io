@@ -1,28 +1,19 @@
 ---
 layout: page
-title: Home
 ---
 
-# Brenna Brocker
+Hi 👋, I’m Brenna.
 
-Chemical Engineering Student | Process Design | Sustainable Systems
+I enjoy building, designing, and improving things - especially when that work can contribute to larger environmental or sustainability goals.
 
-Youngstown State University chemical engineering student focused on process design, optimization, safety, and sustainable energy systems.
+I’m naturally drawn to problem-solving that combines technical thinking with creativity, and I’m especially interested in energy, water, and sustainable process design.
 
-## Core Skills
-- ChemCAD Process Simulation
-- Process & Plant Design
-- Material & Energy Balances
-- Equipment Sizing
-- Process Safety Analysis
-- Lean Six Sigma
+I like understanding how things work, finding ways to make them better, and working on meaningful solutions with real-world impact. 
 
-## Featured Projects
+[View Projects →](/projects/)
 
-### Renewable Natural Gas Facility Design
-Designed a full-scale RNG production system including anaerobic digestion, gas cleanup, amine systems, compression, and economic analysis.
-
-### DAS Project Engineering Internship
-Improved laboratory workflow efficiency, analyzed operational bottlenecks, and evaluated automation solutions.
-
-[View Full Projects →](/projects/)
+<style>
+.site-footer {
+  display: none;
+}
+</style>

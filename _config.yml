@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Brenna Brocker
-email: your-email@example.com
+email: bbrocker23@icloud.com
 description: >-
   Chemical engineering student focused on process design, optimization,
   process safety, and sustainable systems.
@@ -33,7 +33,6 @@ plugins:
   - jekyll-feed
 
 header_pages:
-  - about.markdown
   - projects.markdown
 
 # Exclude from processing.
