@@ -11,9 +11,3 @@ I’m naturally drawn to problem-solving that combines technical thinking with c
 I like understanding how things work, finding ways to make them better, and working on meaningful solutions with real-world impact. 
 
 [View Projects →](/projects/)
-
-<style>
-.site-footer {
-  display: none;
-}
-</style>
