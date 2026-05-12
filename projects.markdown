@@ -1,4 +1,8 @@
-# Projects
+---
+layout: page
+title: Projects
+---
+
 <style>
 .projects-grid {
   display: grid;
@@ -71,3 +75,9 @@
 </div>
 
 </div>
+
+<style>
+.site-footer {
+  display: none;
+}
+</style>
