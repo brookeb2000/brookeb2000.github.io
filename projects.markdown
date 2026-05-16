@@ -68,13 +68,6 @@ title: Projects
 <li>Hazard assessment</li>
 <li>Consequence analysis</li>
 </ul>
-</div>
-
-<div class="project-card">
-<h2>Blank Project</h2>
-</div>
-
-</div>
 
 <style>
 .site-footer {
