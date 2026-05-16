@@ -1,7 +1,14 @@
 ---
 layout: page
 title: Projects
+permalink: /projects/
 ---
+
+<style>
+.site-footer {
+  display: none;
+}
+</style>
 
 <style>
 .projects-grid {
@@ -69,8 +76,5 @@ title: Projects
 <li>Consequence analysis</li>
 </ul>
 
-<style>
-.site-footer {
-  display: none;
-}
-</style>
+</div>
+</div>
